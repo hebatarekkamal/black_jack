@@ -1,0 +1,2 @@
+# black_jack
+Your program will be a simplified version of the popular card game Blackjack (without bets).At the beginning of the game, the 3 players and the dealer are dealt 2 cards each. We see both players’ cards but see only 1 of the dealer’s cards. The aim of the game is to have the sum of the card values  (score) in your hand be 21 (BLACKJACK), or as close to 21 as possible. However, you lose if you go  over 21.
